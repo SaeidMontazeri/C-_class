@@ -1,0 +1,10 @@
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\bin\Debug\QuestinDateTime.exe.config
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\bin\Debug\QuestinDateTime.exe
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\bin\Debug\QuestinDateTime.pdb
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.csproj.AssemblyReference.cache
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.Form1.resources
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.Properties.Resources.resources
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.csproj.GenerateResource.cache
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.csproj.CoreCompileInputs.cache
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.exe
+C:\Users\digi\Desktop\CSharp_class\QuestinDateTime\obj\Debug\QuestinDateTime.pdb
