@@ -1,0 +1,10 @@
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\bin\Debug\QuestionHalqe.exe.config
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\bin\Debug\QuestionHalqe.exe
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\bin\Debug\QuestionHalqe.pdb
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.csproj.AssemblyReference.cache
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.Form1.resources
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.Properties.Resources.resources
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.csproj.GenerateResource.cache
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.csproj.CoreCompileInputs.cache
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.exe
+C:\Users\digi\Desktop\CSharp_class\QuestionHalqe\obj\Debug\QuestionHalqe.pdb
