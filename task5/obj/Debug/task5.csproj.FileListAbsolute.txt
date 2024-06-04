@@ -1,0 +1,10 @@
+C:\Users\digi\Desktop\Csharp_task\task5\bin\Debug\task5.exe.config
+C:\Users\digi\Desktop\Csharp_task\task5\bin\Debug\task5.exe
+C:\Users\digi\Desktop\Csharp_task\task5\bin\Debug\task5.pdb
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.Form1.resources
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.Properties.Resources.resources
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.csproj.GenerateResource.cache
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.exe
+C:\Users\digi\Desktop\Csharp_task\task5\obj\Debug\task5.pdb
