@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|c:\\users\\digi\\desktop\\csharp_class\\project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|c:\\users\\digi\\desktop\\csharp_class\\project\\project\\database5dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{749FDCC7-D595-40C9-97F7-49EDEE1F1F68}|Project.csproj|solutionrelative:database5dataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database5DataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Database5DataSet.xsd",
+              "RelativeDocumentMoniker": "Database5DataSet.xsd",
+              "ToolTip": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Database5DataSet.xsd",
+              "RelativeToolTip": "Database5DataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-06-13T15:52:17.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAuwJEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:17:26.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\digi\\Desktop\\CSharp_class\\Project\\Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:50:19.69Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

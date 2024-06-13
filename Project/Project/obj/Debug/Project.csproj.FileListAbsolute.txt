@@ -1,0 +1,11 @@
+C:\Users\digi\Desktop\CSharp_class\Project\Project\bin\Debug\Project.exe.config
+C:\Users\digi\Desktop\CSharp_class\Project\Project\bin\Debug\Project.exe
+C:\Users\digi\Desktop\CSharp_class\Project\Project\bin\Debug\Project.pdb
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.exe
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.pdb
+C:\Users\digi\Desktop\CSharp_class\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\digi\Desktop\CSharp_class\Project\Project\bin\Debug\Database5.accdb
